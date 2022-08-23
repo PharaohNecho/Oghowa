@@ -169,6 +169,8 @@ p {
   width: 100%;
   /* Change Background Color */
   background: #fff;
+    background-image:url(Oghowa%20bg.png);
+    background-size: auto;
   z-index: 99999; }
   .preloader .loader {
     display: table-cell;
@@ -224,7 +226,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #f14836 #f14836 #dedede4f;
+      border-color: #f14836 #151ef2 #dedede4f;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader .ytp-spinner-left .ytp-spinner-circle {
@@ -567,7 +569,7 @@ p {
   .navbar-nav .nav-item a {
     font-size: 16px;
     font-weight: 900;
-    color: #222;
+    color: rgb(255, 30, 30);
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
